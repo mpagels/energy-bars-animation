@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+}
+
+.energy {
+  position: relative;
+}
+
+.energy__you--10 {
+  background: #ff5a36;
+  width: 12px;
+  position: absolute;
+  top: 150px;
+  border-radius: 0 0 8px 8px;
+  transform-origin: top;
+  transform: translate(0%, 0%) rotate(180deg);
+  animation: energy__you--10 0.5s forwards;
+}
+
+@keyframes energy__you--10 {
+  from {
+    height: 0px;
+  }
+  to {
+    height: 120px;
+  }
+}
