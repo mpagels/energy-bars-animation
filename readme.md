@@ -10,6 +10,6 @@ https://mpagels.github.io/energy-bars-animation/
 
 ## Live one-bar:
 
-https://mpagels.github.io/energy-bars-animation/one_bar_animation.html
+https://mpagels.github.io/energy-bars-animation/one-bar-animation.html
 
-Refresh page to view animation again
+Refresh live-page to view animation again
